@@ -49,7 +49,7 @@ const Trabajos = ()=>{
 
 	const arregloProyectos = [ 
 
-								{
+								/*{
 
 									numero : 1 ,
 									titulo:"Monsta",
@@ -57,8 +57,17 @@ const Trabajos = ()=>{
 									urlImagen:"/imagenes/monsta.jpg",
 									urlProyecto:"https://monsta.asciende.pe/"
 
-								},
+								},*/
 								
+								{
+
+									numero : 1 ,
+									titulo:"Gentlemen",
+									descripcion:"Ecommerce de ropa casual" ,
+									urlImagen:"/imagenes/02gentlemenStore.jpg",
+									urlProyecto:"https://gentlemenstore.pe/"
+
+							   },
 								{
 
 									numero : 2 ,
@@ -73,18 +82,6 @@ const Trabajos = ()=>{
 								{
 
 									 numero : 3 ,
-									 titulo:"Gentlemen",
-									 descripcion:"Ecommerce de ropa casual" ,
-									 urlImagen:"/imagenes/02gentlemenStore.jpg",
-									 urlProyecto:"https://gentlemenstore.pe/"
-
-								},
-								
-								
-
-								{
-
-									 numero : 4 ,
 									 titulo:"Infante & Abogados",
 									 descripcion:"Web de Abogados" ,
 									 urlImagen:"/imagenes/infante-y-abogados-01.jpg",
@@ -94,7 +91,7 @@ const Trabajos = ()=>{
 
 								{
 
-									numero : 5 ,
+									numero : 4 ,
 									titulo:"Quiro Innova",
 									descripcion:"Web Quiropráctica" ,
 									urlImagen:"https://quiroinnova.pe/wp-content/uploads/2024/05/banner-quiroinnova-04.png",
@@ -104,13 +101,35 @@ const Trabajos = ()=>{
 
 							   {
 
-								numero : 6 ,
+								numero : 5 ,
 								titulo:"J&J TC SAC",
 								descripcion:"Web Informativa" ,
-								urlImagen:"https://jjtracorp.asciende.pe/wp-content/uploads/2024/07/foto-equipo-jj01-1536x1023.jpeg",
-								urlProyecto:"https://jjtracorp.asciende.pe"
+								urlImagen:"https://jjtracorp.com/wp-content/uploads/2024/06/camioneselevadores-portada-vehiculo.png.png",
+								urlProyecto:"https://jjtracorp.com"
 
 						   		},
+
+								{
+
+									numero : 6 ,
+									titulo:"YAWAR",
+									descripcion:"Web Informativa" ,
+									urlImagen:"https://blog.tecsalud.mx/hubfs/tecnologia-medica-blog.jpg",
+									urlProyecto:"https://medcorecenter.org/"
+	
+								},
+
+								{
+
+									numero : 7 ,
+									titulo:"G & A",
+									descripcion:"Web Informativa" ,
+									urlImagen:"https://andersoncalderoncampos.com/wp-content/uploads/2024/09/MG_4229-GRUPO-scaled.jpg",
+									urlProyecto:"https://garayattorneys.com/"
+	
+								},
+
+								/*
 								{
 
 									 numero : 8 ,
@@ -121,7 +140,7 @@ const Trabajos = ()=>{
 									 urlProyecto:"https://asistenciasasciende.netlify.app/"
 									
 
-								}
+								}*/
 
 
 
