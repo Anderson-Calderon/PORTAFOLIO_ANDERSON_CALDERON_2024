@@ -102,11 +102,15 @@ const Habilidades = ({textoTitulo})=>{
 
 		              <p className="text-justify">
 
-		                A incios del año 2021 descubrí mi pasión por el desarrollo web .
-		                Actualmente soy estudiante de desarrollo de software en el instituto
-		                San Ignacio de Loyola (ISIL) y cuento con experiencia en HTML , CSS , JS , REACT , NODE , WORDPRESS , BOOTSTRAP , etc.
-		            
-		              </p>
+					  		Técnico en Desarrollo de Software graduado del Instituto San Ignacio de Loyola,
+							con experiencia en desarrollo web. Poseo sólidos conocimientos en HTML5, CSS3,
+							Bootstrap, Tailwind, JavaScript, React.js, Node.js, PHP, WordPress, Elementor,
+							WooCommerce y Wix. Además, manejo herramientas como CRM Kommo, Google Workspace, Make Scenarios, Google Tag Manager,
+							Clarity y Google Search Console. Me apasiona la programación y disfruto creando soluciones innovadoras
+							a través de mis líneas de código.
+		              
+					  
+					  </p>
 
 
 		          </div>

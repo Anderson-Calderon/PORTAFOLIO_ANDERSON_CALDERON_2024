@@ -16,8 +16,6 @@ const TextShpere = ()=>{
 
 						const texts = [
 
-
-
 											"REACT.JS",
 											"NODE.JS",
 											"JS",
@@ -31,11 +29,15 @@ const TextShpere = ()=>{
 											"PHP",
 											"BOOTSTRAP 5",
 											"SQL SERVER",
-											"MYSQL"
+											"MYSQL",
+											"SQL SERVER",
+											"GOOGLE WORK SPACE",
+											"CRM KOMMO",
+											"CPANEL",
+											"GOOGLE SEARCH CONSOLE",
+											"GOOGLE TAG MANAGER",
+											"WIX"
 											
-
-
-
 									   ];
 
 							const options ={

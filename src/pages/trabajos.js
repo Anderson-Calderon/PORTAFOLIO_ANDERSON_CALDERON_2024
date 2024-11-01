@@ -49,34 +49,26 @@ const Trabajos = ()=>{
 
 	const arregloProyectos = [ 
 
-								/*{
-
-									numero : 1 ,
-									titulo:"Monsta",
-									descripcion:"Ecommerce de Apple" ,
-									urlImagen:"/imagenes/monsta.jpg",
-									urlProyecto:"https://monsta.asciende.pe/"
-
-								},*/
-								
+							
+							
 								{
 
 									numero : 1 ,
-									titulo:"Gentlemen",
-									descripcion:"Ecommerce de ropa casual" ,
-									urlImagen:"/imagenes/02gentlemenStore.jpg",
-									urlProyecto:"https://gentlemenstore.pe/"
-
-							   },
-								{
-
-									numero : 2 ,
 									titulo:"Cardwest",
 									descripcion:"Ecommerce de ropa casual" ,
 									urlImagen:"/imagenes/cardwest.webp",
 									urlProyecto:"https://cardwest.pe/"
 
 							   },
+							   {
+
+								numero : 2 ,
+								titulo:"One Data",
+								descripcion:"Análisis de Datos" ,
+								urlImagen:"https://images.pexels.com/photos/5831511/pexels-photo-5831511.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+								urlProyecto:"https://cardwest.pe/"
+
+						   		},
 
 
 								{
@@ -84,7 +76,7 @@ const Trabajos = ()=>{
 									 numero : 3 ,
 									 titulo:"Infante & Abogados",
 									 descripcion:"Web de Abogados" ,
-									 urlImagen:"/imagenes/infante-y-abogados-01.jpg",
+									 urlImagen:"https://infanteyabogados.pe/wp-content/uploads/2024/04/gavel-on-wooden-table-and-lawyer-or-judge-working-with-agreement-in-courtroom-theme-768x401.jpg",
 									 urlProyecto:"https://infanteyabogados.pe"
 
 								},
@@ -112,16 +104,25 @@ const Trabajos = ()=>{
 								{
 
 									numero : 6 ,
-									titulo:"YAWAR",
-									descripcion:"Web Informativa" ,
-									urlImagen:"https://blog.tecsalud.mx/hubfs/tecnologia-medica-blog.jpg",
-									urlProyecto:"https://medcorecenter.org/"
+									titulo:"ASCIENDE",
+									descripcion:"Landing Page" ,
+									urlImagen:"https://images.pexels.com/photos/9489074/pexels-photo-9489074.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+									urlProyecto:"https://asciende.pe/"
+	
+								},
+								{
+
+									numero : 7 ,
+									titulo:"HR-IN",
+									descripcion:"Landing Page" ,
+									urlImagen:"https://images.pexels.com/photos/8441790/pexels-photo-8441790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+									urlProyecto:"https://www.hr-in.com/potencia-tu-talento-empresarial"
 	
 								},
 
 								{
 
-									numero : 7 ,
+									numero : 8 ,
 									titulo:"G & A",
 									descripcion:"Web Informativa" ,
 									urlImagen:"https://andersoncalderoncampos.com/wp-content/uploads/2024/09/MG_4229-GRUPO-scaled.jpg",
@@ -129,18 +130,7 @@ const Trabajos = ()=>{
 	
 								},
 
-								/*
-								{
-
-									 numero : 8 ,
-
-									 titulo:"Sistema de Asistencia",
-									 descripcion:"Proyecto de registro de Asistencia " ,
-									 urlImagen:"https://www.buk.cl/hubfs/por-que-tener-un-control-de-asistencia-de-personal.jpg",
-									 urlProyecto:"https://asistenciasasciende.netlify.app/"
-									
-
-								}*/
+								
 
 
 
@@ -167,10 +157,11 @@ const Trabajos = ()=>{
 
 		        	<h2 className="text-center  mb-10 text-white mt-10">
 		        		
+						
 		        		<span>M</span>
 		        		<span>i</span>
 		        		<span>s</span>
-		        		<span> T</span>
+		        		<span>T</span>
 		        		<span>r</span>
 		        		<span>a</span>
 		        		<span>b</span>
